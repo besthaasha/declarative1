@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Run') {
             steps {
-                echo 'Running code'
+                echo 'Running declarative code'
             }
         }
     }
